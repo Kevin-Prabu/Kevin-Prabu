@@ -1,5 +1,7 @@
 ## Hi there 👋
+---
 <h1>Hey there i am Kevin</h1>
+---
 
 ### Technical Skills
 ### Languages
