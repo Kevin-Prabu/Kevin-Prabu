@@ -2,7 +2,7 @@
 <h1>Hey there i am Kevin</h1>
 
 ### Technical Skills
-Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3b3b3b?style=for-the-badge)
