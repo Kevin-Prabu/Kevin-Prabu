@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Kevin and I'm a student, from India</h2>
+<h2 align="left">Hi 👋! My name is Kevin and I'm currently a student </h2>
+
+## 👋 About Me
+
+Hi! I'm **Kevin**, a passionate Computer Science student studying in **Chirst University**.  
+
+💻 **Languages & Tech:** C++, Python, JavaScript, React, HTML/CSS, SQL, MongoDB  
+🚀 **Focus:** Learning, building small projects, exploring open source  
+🌟 **Dream Career:** Ethical Hacker, Pentester Testing  
+✨ **Fun Fact:** I love sleep and music  
+
 
 ###
 
@@ -46,3 +56,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Kevin-Prabu/Kevin-Prabu/output/snake.svg" alt="Snake animation" />
+
